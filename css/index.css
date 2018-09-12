@@ -1,4 +1,4 @@
- @charset "utf-8";
+
 body {float: center; font: 15px "Microsoft YaHei", Arial, Helvetica, sans-serif; color: #555; background: #efefef; line-height: 1.5; }
 body li p { font-size: 33px; line-height: 25px;width: 100%; color: #a5a4a4; text-align: center; clear: both; text-shadow: #fff 1px 0 2px, #fff 0 1px 2px, #fff -1px 0 2px, #fff 0 -1px 2px; }
 main { overflow: hidden; width: 68%; float: right; display: block; }
